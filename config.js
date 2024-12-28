@@ -7,12 +7,7 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],	
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
+  ['393201391411', '◤✞ 𝕾𝖕𝖎𝖉𝖞 ✞◥💋', true],
 ] //Numero degli owner
 
 //────────────────────────────
